@@ -54,7 +54,5 @@ body {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
-
-@media (min-width: 1440px) {
-
-}
+@media (min-width: 1440px)
+{ } }
